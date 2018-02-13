@@ -1,0 +1,2 @@
+#include <winuser.rh>
+1 RT_MANIFEST "problem3.auto.manifest"
